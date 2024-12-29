@@ -1,0 +1,4 @@
+mongoDB ===  travleDB@123
+
+
+string -== mongodb+srv://kaushikvarma45:<db_password>@traveldb.d3rst.mongodb.net/
